@@ -16,7 +16,7 @@ This project uses ESP32-CAM to capture images and analyze them using AI (OpenAI 
 - Push Button
 
 ## Author
-Dr.K.Vignesh
+Dr.K.Vignesh/n
 Pranavdev P.S
 Polu Sai Haswanth reddy
 Rohit Raj
